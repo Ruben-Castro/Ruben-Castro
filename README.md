@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ruben-Castro
-- 👀 I’m interested in blockhain development, ML, and web development.  
-- 🌱 I’m currently learning ML via UCSD Machine Learning Bootcamp. 
-- 💞️ I’m looking to collaborate on interesting projects centered around web 3.0 and AI. 
+- 👀 I’m interested in AI, Computer Vision, LLM, ML, and full-stack web development.  
+- 🌱 I’m currently applying for my Master's in AI 
+- 💞️ I’m looking to collaborate on interesting projects centered around AI. 
 - 📫 How to reach me https://www.linkedin.com/in/ruben-castro-espinoza/
 
 <!---
